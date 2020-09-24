@@ -1,0 +1,1 @@
+Repositório para armazenar os exercícios propostos na disciplina de Estrutura de dados do programa de Pós-Graduação da UFF.
